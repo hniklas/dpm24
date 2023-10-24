@@ -19,6 +19,8 @@ body{
  width:70%;
  max-width:1000px
  margin: 0 auto;
- 
+}
+ .header{
+  background-color: #DDD2BA;
 }
 
