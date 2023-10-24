@@ -21,6 +21,13 @@ body{
  margin: 0 auto;
 }
  .header{
+  background-color: #C69891;
+  height: 75px
+ }
+   .body{
   background-color: #DDD2BA;
+  height: 100px
+   }
+  
 }
 
