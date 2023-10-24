@@ -16,7 +16,8 @@ body{
     
 .container {
  background: white;
- width:600px;
+ width:70%;
+ max-width:1000px
  margin: 0 auto;
  
 }
