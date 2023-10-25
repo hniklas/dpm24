@@ -1,6 +1,6 @@
  <style type="text/css">
     h1{ 
-      border: 10px #E0B3BF;
+      border: 20px #E0B3BF;
       cursor: crosshair;
     }
        a{
@@ -35,6 +35,6 @@ body{
    }
   .footer{
   background-color: #C69891;
-  height: 50px;
+  height: 20px;
 }
 
