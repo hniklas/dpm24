@@ -12,7 +12,9 @@ body{
  font-size: 30px;
 }
        </style>
-
+* {
+ text-align: center;
+}
     
 .container {
  background: white;
